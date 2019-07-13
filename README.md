@@ -7,4 +7,6 @@
 - Add Product title/keyword on line 38
 - Save chages 
 - Execute the file match_listing.php on terminal as:
-`php match_listing.php`
+```
+php match_listing.php
+```
